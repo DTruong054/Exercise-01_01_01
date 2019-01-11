@@ -1,0 +1,22 @@
+{
+  "name": "exercise-01_01_01",
+  "version": "1.0.0",
+  "description": "Intro to node.js and express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DTruong054/Exercise-01_01_01.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DTruong054/Exercise-01_01_01/issues"
+  },
+  "homepage": "https://github.com/DTruong054/Exercise-01_01_01#readme",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
