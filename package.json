@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/DTruong054/Exercise-01_01_01#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "gulp": "^4.0.0"
   }
 }
